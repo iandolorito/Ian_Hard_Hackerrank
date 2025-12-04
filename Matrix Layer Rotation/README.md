@@ -1,0 +1,2 @@
+This function matrixRotation(matrix, r) it rotates each concentric layer (ring) of an m×n matrix by r steps by extracting a layer into a 1‑D list, rotating that list, and writing it back; the algorithm visits every element a constant number of times (O(m·n) time) and uses extra space proportional to a layer's perimeter.. This repository contains a JavaScript implementation of the "Matrix Layer Rotation" algorithm used in HackerRank-style problems. The main function is`matrixRotation(matrix, r) (found in matrixlayer.js)
+
